@@ -7,14 +7,12 @@ import Add from "./components/Add";
 
 const App = () => {
   return (
-    <Router>
       <Navibar />
       <Routes>
         <Route path="/" element={<Home />}/>
         <Route path="/List" element={<List />} />
         <Route path="/Add" element={<Add />} />
       </Routes>
-    </Router>
   )
 }
 
