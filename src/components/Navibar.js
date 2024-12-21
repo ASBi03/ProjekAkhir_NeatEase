@@ -6,7 +6,6 @@ const Navibar = () => {
         <nav className="container mx-auto w-screen h-10 flex justify-between items-center bg-yellow-400">
             <div className="ml-5">
                 <Link to="/"><img src="NeatEase.png" alt="NeatEase" w-4 /></Link>
-                <P className="ml-5 text-black">Klick the logo />
             </div>
         </nav>
     );
