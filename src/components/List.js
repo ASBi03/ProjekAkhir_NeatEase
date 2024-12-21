@@ -13,7 +13,7 @@ function List() {
         </table>
       </div>
       <div className="flex items-center justify-center">
-        <Link to="/AddTask">
+        <Link to="/Add">
           <button className="bg-yellow-800 text-white p-2 rounded-2xl mt-16">Add Task</button>
         </Link>
 
