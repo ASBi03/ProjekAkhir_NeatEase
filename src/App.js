@@ -9,7 +9,7 @@ const App = () => {
   return (
       <Navibar />
       <Routes>
-        <Route path="/" element={<NeatEase />}/>
+        <Route path="/ProjekAkhir_NeatEase" element={<NeatEase />}/>
         <Route path="/List" element={<List />} />
         <Route path="/Add" element={<Add />} />
       </Routes>
