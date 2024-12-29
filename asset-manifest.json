@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ProjekAkhir_NeatEase/static/css/main.8fed9417.css",
-    "main.js": "/ProjekAkhir_NeatEase/static/js/main.a2e4b791.js",
-    "index.html": "/ProjekAkhir_NeatEase/index.html",
-    "main.8fed9417.css.map": "/ProjekAkhir_NeatEase/static/css/main.8fed9417.css.map",
-    "main.a2e4b791.js.map": "/ProjekAkhir_NeatEase/static/js/main.a2e4b791.js.map"
+    "main.css": "/Tekweb_NeatEase/static/css/main.b715bac2.css",
+    "main.js": "/Tekweb_NeatEase/static/js/main.998cff97.js",
+    "static/media/Editicon.webp": "/Tekweb_NeatEase/static/media/Editicon.534f65211112ce5b018a.webp",
+    "index.html": "/Tekweb_NeatEase/index.html",
+    "main.b715bac2.css.map": "/Tekweb_NeatEase/static/css/main.b715bac2.css.map",
+    "main.998cff97.js.map": "/Tekweb_NeatEase/static/js/main.998cff97.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fed9417.css",
-    "static/js/main.a2e4b791.js"
+    "static/css/main.b715bac2.css",
+    "static/js/main.998cff97.js"
   ]
 }
