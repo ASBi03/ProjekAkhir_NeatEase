@@ -65,8 +65,8 @@ const TaskList = ({ tasks, deleteTask, toggleTaskCompletion }) => {
           <option value="deadline">Deadline</option>
         </select>
       </div>
-      <div className="tabletask flex items-center justify-center mt-10 shadow-2xl shadow-black">
-        <table className="max-w-screen-md bg-yellow-400 text-yellow-950 text-center shadow-lg rounded-tl-2xl rounded-br-2xl">
+      <div className="tabletask flex items-center justify-center mt-10">
+        <table className="max-w-screen-md bg-yellow-400 text-yellow-950 text-center shadow-2xl shadow-black rounded-tl-2xl rounded-br-2xl">
           <thead className="border-b-2 border-yellow-600">
             <tr>
               <th className="py-2 px-4 border-r-2 border-yellow-600">No.</th>
