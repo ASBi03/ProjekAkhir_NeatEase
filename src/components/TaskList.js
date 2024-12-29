@@ -50,7 +50,7 @@ const TaskList = ({ tasks, deleteTask, toggleTaskCompletion }) => {
 
 
   return (
-    <div className="font-poppins container flex flex-col h-screen max-w-screen-2xl bg-yellow-200">
+    <div className="font-poppins container flex flex-col h-screen max-w-screen-2xl bg-yellow-200 ">
       <div className="flex items-center justify-center ml-96">
         <select 
           className="border bg-yellow-200 mt-10 ml-44 text-center border-yellow-600 rounded-2xl"
@@ -65,7 +65,7 @@ const TaskList = ({ tasks, deleteTask, toggleTaskCompletion }) => {
           <option value="deadline">Deadline</option>
         </select>
       </div>
-      <div className="tabletask flex items-center justify-center mt-10">
+      <div className="tabletask flex items-center justify-center mt-10 shadow-2xl shadow-black">
         <table className="max-w-screen-md bg-yellow-400 text-yellow-950 text-center shadow-lg rounded-tl-2xl rounded-br-2xl">
           <thead className="border-b-2 border-yellow-600">
             <tr>
