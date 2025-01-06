@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/ProjekAkhir_NeatEase/static/css/main.b715bac2.css",
-    "main.js": "/ProjekAkhir_NeatEase/static/js/main.2db2cda8.js",
+    "main.css": "/ProjekAkhir_NeatEase/static/css/main.0432b8a6.css",
+    "main.js": "/ProjekAkhir_NeatEase/static/js/main.c7302e53.js",
+    "static/media/bg.png": "/ProjekAkhir_NeatEase/static/media/bg.d4ea6fdd7e3e2da2f563.png",
+    "static/media/Ring (2).png": "/ProjekAkhir_NeatEase/static/media/Ring (2).9a3427119b44c0fa293f.png",
+    "static/media/ring.png": "/ProjekAkhir_NeatEase/static/media/ring.286892840dac0f8eeef6.png",
     "static/media/Editicon.webp": "/ProjekAkhir_NeatEase/static/media/Editicon.534f65211112ce5b018a.webp",
     "index.html": "/ProjekAkhir_NeatEase/index.html",
-    "main.b715bac2.css.map": "/ProjekAkhir_NeatEase/static/css/main.b715bac2.css.map",
-    "main.2db2cda8.js.map": "/ProjekAkhir_NeatEase/static/js/main.2db2cda8.js.map"
+    "main.0432b8a6.css.map": "/ProjekAkhir_NeatEase/static/css/main.0432b8a6.css.map",
+    "main.c7302e53.js.map": "/ProjekAkhir_NeatEase/static/js/main.c7302e53.js.map"
   },
   "entrypoints": [
-    "static/css/main.b715bac2.css",
-    "static/js/main.2db2cda8.js"
+    "static/css/main.0432b8a6.css",
+    "static/js/main.c7302e53.js"
   ]
 }
